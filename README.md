@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purnav</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Inmakes Infotech**
+- 🔭 I’m currently working on **Space AI**
 
 - 🌱 I’m currently learning **advanced database optimizations and scalable system design.**
 
