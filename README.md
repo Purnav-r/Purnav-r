@@ -33,30 +33,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
-
-<!-- Frontend -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
 <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-
-<!-- Backend -->
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
-
-<!-- Databases -->
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
 <a href="https://neo4j.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
-
-<!-- AI & Data -->
 <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-
-<!-- DevOps -->
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-
 </p>
