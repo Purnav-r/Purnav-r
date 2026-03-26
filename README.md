@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purnav</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Building Intelligent Systems</h3>
+<h3 align="center">Backend Developer | AI Enthusiast | Building Intelligent Systems</h3>
 
 - 🔭 I’m currently working on **AI-powered Full Stack Projects & Construction Intelligence Systems**
 
